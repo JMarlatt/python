@@ -4,6 +4,8 @@ import subprocess
 import sys
 from datetime import datetime
 
+# Adding some text to test "Git" command and GitHub interface
+
 # Clear the screen
 subprocess.call('clear', shell=True)
 
