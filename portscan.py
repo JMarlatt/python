@@ -5,6 +5,7 @@ import sys
 from datetime import datetime
 
 # Adding some text to test "Git" command and GitHub interface
+# Now adding text from GitHub page to confirm download with Git command
 
 # Clear the screen
 subprocess.call('clear', shell=True)
